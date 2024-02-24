@@ -1,2 +1,2 @@
-#baby malware analysis, have fun  
+baby malware analysis, have fun  
 
