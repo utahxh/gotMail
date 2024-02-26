@@ -1,2 +1,2 @@
-baby malware analysis for Aitu Miliraty CTF, have fun  
+baby malware analysis for Aitu Military CTF, have fun  
 
